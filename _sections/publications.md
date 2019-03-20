@@ -3,8 +3,11 @@ title: Selected Publications
 icon: fa-book
 order: 4
 ---
+
+<div style="text-align: left; font-weight: bold;">2019</div>
+* <div style="text-align: justify;"> Gus Pessolano, Huw Read, Iain Sutherland and Konstantinos Xynos, "Forensic analysis of the Nintendo 3DS NAND", 19th Annual DFRWS USA 2019 Conference, July 12 to 19, 2019, University Place Hotel, Portland, OR. (Accepted. To be presented)</div>
 <div style="text-align: left; font-weight: bold;">2018</div>
-* <div style="text-align: justify;"> Akshay Awasthi, Huw Read, Iain Sutherland and Konstantinos Xynos, (2018) “Welcome pwn: Almond smart home hub forensics”, 18th Annual DFRWS USA 2018 Conference, July 15 to 18, 2018 (<a href="https://www.dfrws.org/conferences/dfrws-usa-2018/sessions/welcome-pwn-almond-smart-home-hub-forensics">Abstract</a> | <a href="https://www.dfrws.org/sites/default/files/session-files/paper_welcome_pwn_-_almond_smart_home_hub_forensics.pdf">Paper</a> | <a href="https://www.dfrws.org/sites/default/files/session-files/pres_welcome_pwn_-_almond_smart_home_hub_forensics.pdf">Presentation</a> )</div>
+* <div style="text-align: justify;"> Akshay Awasthi, Huw Read, Iain Sutherland and Konstantinos Xynos, (2018) “Welcome pwn: Almond smart home hub forensics”, 18th Annual DFRWS USA 2018 Conference, July 15 to 18, 2018 (<a href="https://www.dfrws.org/conferences/dfrws-usa-2018/sessions/welcome-pwn-almond-smart-home-hub-forensics">Abstract</a> | <a href="https://www.dfrws.org/sites/default/files/session-files/paper_welcome_pwn_-_almond_smart_home_hub_forensics.pdf">Paper</a> | <a href="https://www.dfrws.org/sites/default/files/session-files/pres_welcome_pwn_-_almond_smart_home_hub_forensics.pdf">Presentation</a> ) - Akshay Awasthi, Huw O.L. Read, Konstantinos Xynos, Iain Sutherland, "Welcome pwn: Almond smart home hub forensics", Digital Investigation, Volume 26, Supplement, 2018, Pages S38-S46, ISSN 1742-2876, https://doi.org/10.1016/j.diin.2018.04.014. (http://www.sciencedirect.com/science/article/pii/S1742287618301907) (Open Access)</div>
 <div style="text-align: left; font-weight: bold;">2017</div>
 * <div style="text-align: justify;"> Morrison L., Read H., Xynos K., Sutherland I. (2017) “Forensic Evaluation of an Amazon Fire TV Stick”. In: Peterson G., Shenoi S. (eds) Advances in Digital Forensics XIII. Digital Forensics 2017. IFIP Advances in Information and Communication Technology, vol 511. Springer, Cham - https://doi.org/10.1007/978-3-319-67208-3_4</div>
 
