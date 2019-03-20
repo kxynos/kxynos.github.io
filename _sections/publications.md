@@ -34,7 +34,7 @@ order: 4
 
 * <div style="text-align: justify;">Read H., Sutherland I., Xynos K., (2013) Networked War Games: Training the Intrusion Detection Specialist, IADIS International Journal on WWW/INTERNET, Vol. 11, No. 1, pp. 53-61, ISSN: 1645-7641</div>  
 
-* <div style="text-align: justify;">Xynos K., Sutherland I. and Blyth A., (2013) "Effectiveness of blocking evasions in Intrusion Prevention Systems", Whitepaper, Apr 2013. Access here: <a href="http://security.research.glam.ac.uk/media/files/documents/2013-04-22/Effectiveness_of_blocking_evasions_in_Intrusion_Prevention_Systems.pdf">Whitepaper download</a></div>
+* <div style="text-align: justify;">Xynos K., Sutherland I. and Blyth A., (2013) "Effectiveness of blocking evasions in Intrusion Prevention Systems", Whitepaper, Apr 2013. Access here: <a href="http://security.research.glam.ac.uk/media/files/documents/2013-04-22/Effectiveness_of_blocking_evasions_in_Intrusion_Prevention_Systems.pdf">Whitepaper download</a> or <a href="https://kosta.xynos.eu/assets/publications/Xynos2013-Effectiveness%20of%20blocking%20evasions%20in%20Intrusion%20Prevention%20Systems.pdf">HERE</a></div>
 
 <div style="text-align: left; font-weight: bold;">2012</div>
 * <div style="text-align: justify;">Sutherland I., Xynos K., Andrew Jones A. and Blyth A. (2012), Protective Emblems in Cyber Warfare, 2012 SECAU Security Congress, 3-5 December, 2012, <span style="font-weight: bold;">Won: Best Paper in Theme and Best in Conference</span>. (<a href="https://ro.ecu.edu.au/cgi/viewcontent.cgi?&httpsredir=1&article=1048&context=isw">Paper</a>)</div>
