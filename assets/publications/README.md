@@ -1,5 +1,5 @@
 ---
-page: page-hide
+page-hide: true
 ---
 
 Publications will be stored in here.
