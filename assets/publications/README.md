@@ -2,6 +2,7 @@
 title: Publications store
 icon: fa-th
 section.hide: true
+page.hide: true
 order: 6
 
 ---
