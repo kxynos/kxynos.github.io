@@ -1,9 +1,8 @@
 ---
 title: Publications store
 icon: fa-th
-section.hide: true
 hide: true
-order: 6
+order: 3
 
 ---
 
