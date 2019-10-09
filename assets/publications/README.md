@@ -1,4 +1,6 @@
 ---
+title: Publications store
+icon: fa-th
 page-hide: true
 ---
 
