@@ -3,7 +3,8 @@ title: Selected Publications
 icon: fa-book
 order: 4
 ---
-
+<div style="text-align: left; font-weight: bold;">2020</div>
+* <div style="text-align: justify;"> Dimitrios Sarris, Konstantinos Xynos, Huw Read and Iain Sutherland "Toward a methodology for the classification of IoT devices", European Conference on Cyber Warfare and Security 2020 (ECCWS), Chester, UK, (reviewed, accepted, to be presented).</div>
 <div style="text-align: left; font-weight: bold;">2019</div>
 * <div style="text-align: justify;"> Gus Pessolano, Huw Read, Iain Sutherland and Konstantinos Xynos, "Forensic analysis of the Nintendo 3DS NAND", 19th Annual DFRWS USA 2019 Conference, July 12 to 19, 2019, University Place Hotel, Portland, OR. (  <a href="https://dfrws.org/conferences/dfrws-usa-2019/sessions/forensic-analysis-nintendo-3ds-nand">Abstract</a> | <a href="https://dfrws.org/sites/default/files/session-files/paper-forensic_analysis_of_the_nintendo_3ds_nand.pdf">Paper</a> | <a href="https://dfrws.org/sites/default/files/session-files/2019_usa_pres-forensic_analysis_of_the_nintendo_3ds_nand.pdf">Presentation</a>) - Gus Pessolano, Huw O.L. Read, Iain Sutherland, Konstantinos Xynos, "Forensic Analysis of the Nintendo 3DS NAND", Digital Investigation, Volume 29, Supplement, 2019, Pages S61-S70, ISSN 1742-2876, <a href="https://doi.org/10.1016/j.diin.2019.04.015"> https://doi.org/10.1016/j.diin.2019.04.015</a> (Open Access).</div>
 <div style="text-align: left; font-weight: bold;">2018</div>
