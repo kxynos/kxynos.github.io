@@ -7,9 +7,9 @@ order: 3
 ---
 
 
-Lecturing/ Tutoring/Tutorials
-
-<div style="text-align: left; font-weight: bold;">2019 (Noroff University College)</div>
+Lecturing/Tutoring/Tutorials
+	
+<div style="text-align: left; font-weight: bold;">2019 - 2021 (Noroff University College)</div>
 
 	Ethical Hacking (BSc)
 
