@@ -3,6 +3,10 @@ title: Selected Publications
 icon: fa-book
 order: 4
 ---
+
+<div style="text-align: left; font-weight: bold;">2021</div>
+* <div style="text-align: justify;"> 
+"Educating the examiner: Digital forensics in an IoT and embedded environment", with I. Sutherland, H. O. L. Read, and K. Xynos. "20th European Conference on Cyberwarfare and Security", Chester, Wales, UK, June 24-25, 2021.</div>
 <div style="text-align: left; font-weight: bold;">2020</div>
 * <div style="text-align: justify;"> Dimitrios Sarris, Konstantinos Xynos, Huw Read and Iain Sutherland, "Toward a methodology for the classification of IoT devices", European Conference on Cyber Warfare and Security 2020 (ECCWS), Chester, UK.</div>
 <div style="text-align: left; font-weight: bold;">2019</div>
