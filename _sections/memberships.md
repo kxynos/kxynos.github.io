@@ -13,5 +13,5 @@ order: 5
 * <div style="text-align: justify;"> <a href="https://www.bsidesams.nl">BSidesAms</a> Technical Support and site sponsorship (2017-present)</div>
 * <div style="text-align: justify;"> TigerScheme Ltd (Examiner) (2009-2016) – CHECK Team Leader (expired) </div>
 <div style="text-align: left; font-weight: bold;">Reviewer:</div>
-* <div style="text-align: justify;">44con UK CFP (2016-present)</div>
+* <div style="text-align: justify;">44con UK CFP (2016-2019)</div>
 * <div style="text-align: justify;">Journal: Acta Astronautica (2015-2016)</div>
