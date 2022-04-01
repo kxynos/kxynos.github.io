@@ -1,5 +1,6 @@
 ---
-page.hide: true
+hide: true
+layout: page
 ---
 
 Upgrade jekyll install
