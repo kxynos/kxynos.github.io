@@ -8,7 +8,7 @@ order: 4
 "An Analysis of the Prevalence of Game Consoles in Criminal Investigations in The United Kingdom", with I. Sutherland, H.  O. L. Read, and K. Xynos “Proceedings of the Twenty-First European Conference on Cyber Warfare and Security,” Chester, England, June 16-17, 2022.</div>
 <div style="text-align: left; font-weight: bold;">2021</div>
 * <div style="text-align: justify;"> 
-"Educating the examiner: Digital forensics in an IoT and embedded environment", with I. Sutherland, H. O. L. Read, and K. Xynos. "20th European Conference on Cyberwarfare and Security", Chester, Wales, UK, June 24-25, 2021.</div>
+"Educating the examiner: Digital forensics in an IoT and embedded environment", with I. Sutherland, H. O. L. Read, and K. Xynos. "20th European Conference on Cyberwarfare and Security", Chester, England, UK, June 24-25, 2021.</div>
 <div style="text-align: left; font-weight: bold;">2020</div>
 * <div style="text-align: justify;"> Dimitrios Sarris, Konstantinos Xynos, Huw Read and Iain Sutherland, "Toward a methodology for the classification of IoT devices", European Conference on Cyber Warfare and Security 2020 (ECCWS), Chester, UK.</div>
 <div style="text-align: left; font-weight: bold;">2019</div>
