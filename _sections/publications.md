@@ -31,7 +31,7 @@ order: 4
 
 * <div style="text-align: justify;"> Read H., Sutherland I., Xynos K. and Roarson F., (2015), Locking out the Investigator: The need to circumvent security in embedded systems., Information Security Journal: A Global Perspective, Pages 1-9, <a href="http://dx.doi.org/10.1080/19393555.2014.998847"> http://dx.doi.org/10.1080/19393555.2014.998847</a>, Taylor & Francis</div>
 
-* <div style="text-align: justify;"> Read H., Xynos K., Sutherland I., and Burgess M., (2015), "Visualising the Impact of Network Attacks on Business Processes using the DEViSE Framework" Norsk Informasjonssikkerhetskonferanse 2015, 23-25 Nov 2015. <a href="https://kosta.xynos.eu/assets/publications/Read2015.NISK_2015_paper.draft.pdf">download from here</a></div>
+* <div style="text-align: justify;"> Read H., Xynos K., Sutherland I., and Burgess M., (2015), "Visualising the Impact of Network Attacks on Business Processes using the DEViSE Framework" Norsk Informasjonssikkerhetskonferanse 2015, 23-25 Nov 2015.</div>
 
 * <div style="text-align: justify;"> Read H., Xynos K., Sutherland I., Roarson F., Andriotis P. and Oikonomou G., (2015), An extensible platform for the forensic analysis of social media data, 17th International Conference on Human-Computer Interaction, HCI International 2015, Los Angeles, CA, USA, 2-7 August 2015.</div>
 
