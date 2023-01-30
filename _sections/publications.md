@@ -4,7 +4,7 @@ icon: fa-book
 order: 4
 ---
 <div style="text-align: left; font-weight: bold;">2023</div>
-* <div style="text-align: justify;">Xynos K., Read H.O.L., Sutherland I., Bovee M., (2023) Nintendo 3DS Forensic Examination Tools. Nineteenth Annual IFIP WG 11.9 International Conference on Digital Forensics, SRI International, Arlington, Virginia, USA, January 30-31, 2023, Advances in Digital Forensics XIX (Springer, Heidelberg, Germany, 2023).</div>
+* <div style="text-align: justify;">Xynos K., Read H.O.L., Sutherland I., Bovee M., (2023) Nintendo 3DS Forensic Examination Tools. Nineteenth Annual IFIP WG 11.9 International Conference on Digital Forensics, SRI International, Arlington, Virginia, USA, January 30-31, 2023, Advances in Digital Forensics XIX (Springer, Heidelberg, Germany, 2023). </div>
 * <div style="text-align: justify;">Sutherland I., Bovee M., Xynos K., Read H.O.L. (2023) Pre-incident cyber forensic analysis: Legal and ethical issues. ECCWS 2023, 22nd European Conference on Cyber Warfare and Security, Hellenic Air Force Academy (HAFA) and the University of Piraeus, Greece. (to be accepted and presented)</div>
 <div style="text-align: left; font-weight: bold;">2022</div>
 * <div style="text-align: justify;"> 
