@@ -15,3 +15,4 @@ order: 5
 <div style="text-align: left; font-weight: bold;">Reviewer:</div>
 * <div style="text-align: justify;">44con UK CFP (2016-2019)</div>
 * <div style="text-align: justify;">Journal: Acta Astronautica (2015-2016)</div>
+* <div style="text-align: justify;">Journal: Forensic Science International: Digital Investigation (reviewer of journal articles) - https://www.sciencedirect.com/journal/forensic-science-international-digital-investigation</div>
