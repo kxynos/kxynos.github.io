@@ -4,14 +4,14 @@ icon: fa-book
 order: 4
 ---
 <div style="text-align: left; font-weight: bold;">2023</div>
-* <div style="text-align: justify;">Xynos K., Read H.O.L., Sutherland I., Bovee M., (2023) Nintendo 3DS Forensic Examination Tools. Nineteenth Annual IFIP WG 11.9 International Conference on Digital Forensics, SRI International, Arlington, Virginia, USA, January 30-31, 2023, Advances in Digital Forensics XIX (Springer, Heidelberg, Germany, 2023). </div>
-* <div style="text-align: justify;">Sutherland I., Bovee M., Xynos K., Read H.O.L. (2023) Pre-incident cyber forensic analysis: Legal and ethical issues. ECCWS 2023, 22nd European Conference on Cyber Warfare and Security, Hellenic Air Force Academy (HAFA) and the University of Piraeus, Greece. (to be presented)</div>
+* <div style="text-align: justify;">Xynos, K., Read, H., Sutherland, I., Bovee, M., Do, T. (2023). "Nintendo 3DS Forensic Examination Tools." In: Peterson, G., Shenoi, S. (eds) Advances in Digital Forensics XIX. DigitalForensics 2023. IFIP Advances in Information and Communication Technology, vol 687. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-42991-0_4">https://doi.org/10.1007/978-3-031-42991-0_4</a> (Open Access) </div>
+* <div style="text-align: justify;">Sutherland I., Bovee M., Xynos K., Read H.O.L. (2023) "Legal and ethical issues of pre-incident forensic analysis." ECCWS 2023, "Proceedings of the 22nd European Conference on Cyber Warfare and Security",Vol. 22, No. 1, Hellenic Air Force Academy (HAFA) and the University of Piraeus, Greece, 2023. <a href="https://papers.academic-conferences.org/index.php/eccws/article/view/358/1193">https://papers.academic-conferences.org/index.php/eccws/article/view/358/1193</a> (Open Access) https://doi.org/10.34190/eccws.22.1.358 </div>
 <div style="text-align: left; font-weight: bold;">2022</div>
 * <div style="text-align: justify;"> 
-"An Analysis of the Prevalence of Game Consoles in Criminal Investigations in The United Kingdom", with I. Sutherland, H.  O. L. Read, and K. Xynos “Proceedings of the Twenty-First European Conference on Cyber Warfare and Security,” Chester, England, UK June 16-17, 2022.</div>
+Sutherland, I., Read, H., and Xynos, K. (2022). "An Analysis of the Prevalence of Game Consoles in Criminal Investigations in The United Kingdom", ECCWS 2022, "Proceedings of the Twenty-First European Conference on Cyber Warfare and Security",Vol. 21, No. 1, Chester, England, UK June 16-17, 2022. <a href="https://papers.academic-conferences.org/index.php/eccws/article/view/497/390">https://papers.academic-conferences.org/index.php/eccws/article/view/497/390</a> (Open Access) https://doi.org/10.34190/eccws.21.1.497 </div>
 <div style="text-align: left; font-weight: bold;">2021</div>
 * <div style="text-align: justify;"> 
-"Educating the examiner: Digital forensics in an IoT and embedded environment", with I. Sutherland, H. O. L. Read, and K. Xynos. "20th European Conference on Cyberwarfare and Security", Chester, England, UK, June 24-25, 2021.</div>
+Sutherland, I., Read, H., and Xynos, K. (2021), "Educating the examiner: Digital forensics in an IoT and embedded environment", "20th European Conference on Cyberwarfare and Security", Chester, England, UK, June 24-25, 2021.</div>
 <div style="text-align: left; font-weight: bold;">2020</div>
 * <div style="text-align: justify;"> Dimitrios Sarris, Konstantinos Xynos, Huw Read and Iain Sutherland, "Toward a methodology for the classification of IoT devices", European Conference on Cyber Warfare and Security 2020 (ECCWS), Chester, UK.</div>
 <div style="text-align: left; font-weight: bold;">2019</div>
