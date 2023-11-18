@@ -21,7 +21,7 @@ Sutherland, I., Read, H., and Xynos, K. (2021), "Educating the examiner: Digital
 <div style="text-align: left; font-weight: bold;">2017</div>
 * <div style="text-align: justify;"> Morrison L., Read H., Xynos K., Sutherland I. (2017) “Forensic Evaluation of an Amazon Fire TV Stick”. In: Peterson G., Shenoi S. (eds) Advances in Digital Forensics XIII. Digital Forensics 2017. IFIP Advances in Information and Communication Technology, vol 511. Springer, Cham - https://doi.org/10.1007/978-3-319-67208-3_4</div>
 
-* <div style="text-align: justify;"> Huw Read, Iain Sutherland, Konstantinos Xynos, Tom Drange and Ernst Sundt, (2017), "The impact of changing technology on international cybersecurity curricula”, 19th International Conference on Human-Computer Interaction, HCI International 2017, Vancouver, CA, 9-14 July 2017</div>
+* <div style="text-align: justify;"> Huw Read, Iain Sutherland, Konstantinos Xynos, Tom Drange and Ernst Sundt, (2017), "The impact of changing technology on international cybersecurity curricula”, 19th International Conference on Human-Computer Interaction, HCI International 2017, Vancouver, CA, 9-14 July 2017 - https://link.springer.com/content/pdf/10.1007/978-3-319-58460-7_36.pdf?pdf=core</div>
 
 <div style="text-align: left; font-weight: bold;">2016</div>
 * <div style="text-align: justify;"> Huw Read, Elizabeth Thomas, Iain Sutherland, Konstantinos Xynos and Mikhaila Burgess, (2016) A Forensic Methodology for the Analysis of a Nintendo 3DS, Twelfth Annual IFIP WG 11.9 International Conference on Digital Forensics, New Delhi, India January 4-6, 2016, www.ifip119.org</div>
