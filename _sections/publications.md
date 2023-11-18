@@ -38,6 +38,8 @@ Sutherland, I., Read, H., and Xynos, K. (2021), "Educating the examiner: Digital
 * <div style="text-align: justify;"> Sutherland I., Xynos K., Jones, A., Blyth, A., (2015) The Geneva Conventions and Cyber Warfare: A Technical Approach. The RUSI Journal, Aug 2015, Vol. 160, No. 4, Routledge.</div>
 <div style="text-align: left; font-weight: bold;">2014</div>
 * <div style="text-align: justify;"> Sutherland, I., Read, H. and Xynos, K. (2014) Forensic Analysis of Smart TV: A current issue and call to arms, Digital Investigation, Volume 11, Issue 3, September 2014, Pages 175-178, ISSN 1742-2876, <a href="http://dx.doi.org/10.1016/j.diin.2014.05.019"> http://dx.doi.org/10.1016/j.diin.2014.05.019</a>.</div>
+* <div style="text-align: justify;"> Andriotis, P., Tryfonas, T., Oikonomou, G., Li, S., Tzermias, Z., Xynos, K., Read, H. & Prevelakis, V. (2014). On the Development of Automated Forensic Analysis Methods for Mobile Devices. In: Holz, T., Ioannidis, S. (eds) Trust and Trustworthy Computing. Trust 2014. Lecture Notes in Computer Science, vol 8564. Springer, Cham. <a href="https://doi.org/10.1007/978-3-319-08593-7_17">https://doi.org/10.1007/978-3-319-08593-7_17</a>.</div>
+
 
 * <div style="text-align: justify;"> Sutherland I., Xynos K., Read H., Jones A., Drange T. (2014) A forensic overview of the LG Smart TV, Presented at the 12th Australian Digital Forensics Conference 2014 SRI Security Congress, “Security on the Move” 1-3 December, 2014, Perth, Western Australia.</div>
 <div style="text-align: left; font-weight: bold;">2013</div>
