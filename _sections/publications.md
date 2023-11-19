@@ -45,7 +45,7 @@ Sutherland, I., Read, H., and Xynos, K. (2021), "Educating the examiner: Digital
 <div style="text-align: left; font-weight: bold;">2013</div>
 * <div style="text-align: justify;"> Fragkos, G, Angelopoulou, O., and Xynos, K., (2013), The issues of software being classified as malicious by Antivirus false positive alerts, Proceedings of the European Conference on Information Warfare and Security, 2013 (ECIW 2013), University of Jyväskylä, Finland, Jul 2013.</div>
 
-* <div style="text-align: justify;">Huw Read, Konstantinos Xynos, Iain Sutherland, Gareth Davies, Tom Houiellebecq, Frode Roarson, Andrew Blyth, (2013) Manipulation of hard drive firmware to conceal entire partitions, Digital Investigation,Volume 10, Issue 4, December 2013, Pages 281–286, Available online 19 November 2013, ISSN 1742-2876, http://dx.doi.org/10.1016/j.diin.2013.10.001.</div>
+* <div style="text-align: justify;">Huw Read, Konstantinos Xynos, Iain Sutherland, Gareth Davies, Tom Houiellebecq, Frode Roarson, Andrew Blyth, (2013) Manipulation of hard drive firmware to conceal entire partitions, Digital Investigation,Volume 10, Issue 4, December 2013, Pages 281–286, Available online 19 November 2013, ISSN 1742-2876, <a href="http://dx.doi.org/10.1016/j.diin.2013.10.001">http://dx.doi.org/10.1016/j.diin.2013.10.001</a>.</div>
 
 * <div style="text-align: justify;">Read H., Sutherland I., Xynos K., (2013) Networked War Games: Training the Intrusion Detection Specialist, IADIS International Journal on WWW/INTERNET, Vol. 11, No. 1, pp. 53-61, ISSN: 1645-7641</div>  
 
