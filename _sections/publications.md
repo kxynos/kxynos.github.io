@@ -41,7 +41,7 @@ Sutherland, I., Read, H., and Xynos, K. (2021), "Educating the examiner: Digital
 * <div style="text-align: justify;"> Andriotis, P., Tryfonas, T., Oikonomou, G., Li, S., Tzermias, Z., Xynos, K., Read, H. & Prevelakis, V. (2014). On the Development of Automated Forensic Analysis Methods for Mobile Devices. In: Holz, T., Ioannidis, S. (eds) Trust and Trustworthy Computing. Trust 2014. Lecture Notes in Computer Science, vol 8564. Springer, Cham. <a href="https://doi.org/10.1007/978-3-319-08593-7_17">https://doi.org/10.1007/978-3-319-08593-7_17</a>.</div>
 
 
-* <div style="text-align: justify;"> Sutherland I., Xynos K., Read H., Jones A., Drange T. (2014) A forensic overview of the LG Smart TV, Presented at the 12th Australian Digital Forensics Conference 2014 SRI Security Congress, “Security on the Move” 1-3 December, 2014, Perth, Western Australia.</div>
+* <div style="text-align: justify;"> Sutherland I., Xynos K., Read H., Jones A., Drange T. (2014) A forensic overview of the LG Smart TV, Presented at the 12th Australian Digital Forensics Conference 2014 SRI Security Congress, “Security on the Move” 1-3 December, 2014, Perth, Western Australia. <a href="https://doi.org/10.4225/75/57b3e69dfb881">https://doi.org/10.4225/75/57b3e69dfb881 (Open Access)</a></div>
 <div style="text-align: left; font-weight: bold;">2013</div>
 * <div style="text-align: justify;"> Fragkos, G, Angelopoulou, O., and Xynos, K., (2013), The issues of software being classified as malicious by Antivirus false positive alerts, Proceedings of the European Conference on Information Warfare and Security, 2013 (ECIW 2013), University of Jyväskylä, Finland, Jul 2013.</div>
 
