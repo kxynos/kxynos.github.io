@@ -26,10 +26,10 @@ Sutherland, I., Read, H., and Xynos, K. (2021), "Educating the examiner: Digital
 <div style="text-align: left; font-weight: bold;">2016</div>
 * <div style="text-align: justify;">Read, H., Thomas, E., Sutherland I., Xynos K. and Burgess, M., (2016), A Forensic Methodology for the Analysis of a Nintendo 3DS, Twelfth Annual IFIP WG 11.9 International Conference on Digital Forensics, New Delhi, India January 4-6, 2016, www.ifip119.org <a href="https://doi.org/10.1007/978-3-319-46279-0_7">https://doi.org/10.1007/978-3-319-46279-0_7 (Open Access)</a></div>
 <div style="text-align: left; font-weight: bold;">2015</div>
-* <div style="text-align: justify;"> Davies M., Read H., Xynos K. and Sutherland I., (2015), Forensic Analysis of a Sony PlayStation 4: A First Look, DFRWS 2015 EU, Digital Investigation, Volume 12, Supplement 1, March 2015, Pages S81-S89, ISSN 1742-2876, http://dx.doi.org/10.1016/j.diin.2015.01.013.
-(<a href="http://www.sciencedirect.com/science/article/pii/S1742287615000146">http://www.sciencedirect.com/science/article/pii/S1742287615000146 (Open Access)</a>)</div>
+* <div style="text-align: justify;"> Davies M., Read H., Xynos K. and Sutherland I., (2015), Forensic Analysis of a Sony PlayStation 4: A First Look, DFRWS 2015 EU, Digital Investigation, Volume 12, Supplement 1, March 2015, Pages S81-S89, ISSN 1742-2876, https://dx.doi.org/10.1016/j.diin.2015.01.013.
+(<a href="https://www.sciencedirect.com/science/article/pii/S1742287615000146">https://www.sciencedirect.com/science/article/pii/S1742287615000146 (Open Access)</a>)</div>
 
-* <div style="text-align: justify;"> Read H., Sutherland I., Xynos K. and Roarson F., (2015), Locking out the Investigator: The need to circumvent security in embedded systems., Information Security Journal: A Global Perspective, Pages 1-9, <a href="http://dx.doi.org/10.1080/19393555.2014.998847"> http://dx.doi.org/10.1080/19393555.2014.998847</a>, Taylor & Francis</div>
+* <div style="text-align: justify;"> Read H., Sutherland I., Xynos K. and Roarson F., (2015), Locking out the Investigator: The need to circumvent security in embedded systems., Information Security Journal: A Global Perspective, Pages 1-9, <a href="https://dx.doi.org/10.1080/19393555.2014.998847"> https://dx.doi.org/10.1080/19393555.2014.998847</a>, Taylor & Francis</div>
 
 * <div style="text-align: justify;"> Read H., Xynos K., Sutherland I., and Burgess M., (2015), "Visualising the Impact of Network Attacks on Business Processes using the DEViSE Framework" Norsk Informasjonssikkerhetskonferanse 2015, 23-25 Nov 2015.<a href="https://kosta.xynos.eu/assets/publications/Read2015_NISK_2015_paper.pdf">[download from here]</a></div>
 
@@ -37,7 +37,7 @@ Sutherland, I., Read, H., and Xynos, K. (2021), "Educating the examiner: Digital
 
 * <div style="text-align: justify;"> Sutherland I., Xynos K., Jones, A., Blyth, A., (2015) The Geneva Conventions and Cyber Warfare: A Technical Approach. The RUSI Journal, Aug 2015, Vol. 160, No. 4, Routledge.</div>
 <div style="text-align: left; font-weight: bold;">2014</div>
-* <div style="text-align: justify;"> Sutherland, I., Read, H. and Xynos, K. (2014) Forensic Analysis of Smart TV: A current issue and call to arms, Digital Investigation, Volume 11, Issue 3, September 2014, Pages 175-178, ISSN 1742-2876, <a href="http://dx.doi.org/10.1016/j.diin.2014.05.019"> http://dx.doi.org/10.1016/j.diin.2014.05.019</a>.</div>
+* <div style="text-align: justify;"> Sutherland, I., Read, H. and Xynos, K. (2014) Forensic Analysis of Smart TV: A current issue and call to arms, Digital Investigation, Volume 11, Issue 3, September 2014, Pages 175-178, ISSN 1742-2876, <a href="https://dx.doi.org/10.1016/j.diin.2014.05.019"> https://dx.doi.org/10.1016/j.diin.2014.05.019</a>.</div>
 * <div style="text-align: justify;"> Andriotis, P., Tryfonas, T., Oikonomou, G., Li, S., Tzermias, Z., Xynos, K., Read, H. & Prevelakis, V. (2014). On the Development of Automated Forensic Analysis Methods for Mobile Devices. In: Holz, T., Ioannidis, S. (eds) Trust and Trustworthy Computing. Trust 2014. Lecture Notes in Computer Science, vol 8564. Springer, Cham. <a href="https://doi.org/10.1007/978-3-319-08593-7_17">https://doi.org/10.1007/978-3-319-08593-7_17</a>.</div>
 
 
