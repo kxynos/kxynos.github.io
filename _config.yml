@@ -47,7 +47,7 @@ url: "https://kxynos.github.io" # the base hostname & protocol for your site
 twitter_url: https://www.twitter.com/kxynos
 facebook_url:
 googleplus_url:
-instagram_url: 
+mastodon_url: https://mastodon.social/@kxynos
 linkedin_url: https://uk.linkedin.com/in/kxynos
 github_url: https://github.com/kxynos
 github_url2: https://github.com/epicRE
