@@ -3,6 +3,9 @@ title: Selected Publications
 icon: fa-book
 order: 4
 ---
+<div style="text-align: left; font-weight: bold;">2024</div>
+* <div style="text-align: justify;">
+Huw O.L. Read, Konstantinos Xynos, Iain Sutherland, Matthew Bovee, Clyde Tamburro, Nintendo 3DS forensics: A secondhand case study, Forensic Science International: Digital Investigation, Volume 50, Supplement, 2024, 301815, ISSN 2666-2817, (Open Access) <a href="https://doi.org/10.1016/j.fsidi.2024.301815">https://doi.org/10.1016/j.fsidi.2024.301815</a>. </div>
 <div style="text-align: left; font-weight: bold;">2023</div>
 * <div style="text-align: justify;">Xynos, K., Read, H., Sutherland, I., Bovee, M., Do, T. (2023). "Nintendo 3DS Forensic Examination Tools." In: Peterson, G., Shenoi, S. (eds) Advances in Digital Forensics XIX. DigitalForensics 2023. IFIP Advances in Information and Communication Technology, vol 687. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-42991-0_4">https://doi.org/10.1007/978-3-031-42991-0_4</a> (Preview) </div>
 * <div style="text-align: justify;">Sutherland I., Bovee M., Xynos K., Read H.O.L. (2023) "Legal and ethical issues of pre-incident forensic analysis." ECCWS 2023, "Proceedings of the 22nd European Conference on Cyber Warfare and Security", Vol. 22, No. 1, Hellenic Air Force Academy (HAFA) and the University of Piraeus, Greece, 2023. <a href="https://papers.academic-conferences.org/index.php/eccws/article/view/358/1193">https://papers.academic-conferences.org/index.php/eccws/article/view/358/1193</a> (Open Access) <a href="https://doi.org/10.34190/eccws.22.1.358">https://doi.org/10.34190/eccws.22.1.358</a>  <a href="https://kosta.xynos.eu/assets/publications/Sutherland2023-Legal and Ethical Issues of pre-incident Forensic Analysis.pdf">[download from here]</a> </div>
