@@ -4,10 +4,11 @@ icon: fa-th
 order: 5
 ---
 <div style="text-align: left; font-weight: bold;">Organisations:</div>
-* <div style="text-align: justify;"> IEEE Member – kxynos[at]ieee.org</div>
-* <div style="text-align: justify;"> IEEE Computer Society – kxynos[at]computer.org (currently not working-2023)</div>
-* <div style="text-align: justify;"> IEEE Communications Society</div>
-* <div style="text-align: justify;"> IEEE Computational Intelligence Society (2009-2011)</div>
+* <div style="text-align: justify;"> IEEE Member (since 2008) – kxynos[at]ieee.org</div>
+* <div style="text-align: justify;"> IEEE Computer Society (since 2008) – kxynos[at]computer.org</div>
+* <div style="text-align: justify;"> IEEE Power & Energy Society</div>
+* <div style="text-align: justify;"> IEEE Vehicular Technology Society</div>
+* <div style="text-align: justify;"> IEEE Intelligent Transportation Systems</div>
 * <div style="text-align: justify;"> <a href="https://www.bsidesath.gr">BSidesAth</a> Technical Support and site sponsorship (2016-2022)</div>
 * <div style="text-align: justify;"> <a href="https://www.bsidesams.nl">BSidesAms</a> Technical Support and site sponsorship (2017-2022)</div>
 * <div style="text-align: justify;"> TigerScheme Ltd (Examiner) (2009-2016) – CHECK Team Leader (expired) </div>
