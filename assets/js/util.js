@@ -95,8 +95,14 @@
 			}, userConfig);
 
 			// Expand "target" if it's not a jQuery object already.
-				if (typeof config.target != 'jQuery')
-					config.target = $(config.target);
+				if (typeof config.target != 'jQuery') {
+					try {
+						config.target = $.find(config.target);
+					} catch (e) {
+						console.error('Invalid CSS selector for target:', config.target);
+						config.target = $this; // Fallback to the current element
+					}
+				}
 
 		// Panel.
 
