@@ -3,6 +3,8 @@ title: Selected Publications
 icon: fa-book
 order: 4
 ---
+<div style="text-align: left; font-weight: bold;">2025</div>
+* <div style="text-align: justify;">K. Xynos, H. O. L. Read, I. Sutherland and M. Bovee, "Back in the Game: Privacy Concerns of Second-Hand Game Consoles," in IEEE Security & Privacy, doi: 10.1109/MSEC.2025.3553038. keywords: {Games;Switches;Privacy;Data privacy;Identification of persons;Nonvolatile memory;Protection;Reviews;Information sharing;Market research}, (Open Access) <a href="https://ieeexplore.ieee.org/document/10960377">https://ieeexplore.ieee.org/document/10960377</a>. </div>
 <div style="text-align: left; font-weight: bold;">2024</div>
 * <div style="text-align: justify;">
 Huw O.L. Read, Konstantinos Xynos, Iain Sutherland, Matthew Bovee, Clyde Tamburro, Nintendo 3DS forensics: A secondhand case study, Forensic Science International: Digital Investigation, Volume 50, Supplement, 2024, 301815, ISSN 2666-2817, (Open Access) <a href="https://doi.org/10.1016/j.fsidi.2024.301815">https://doi.org/10.1016/j.fsidi.2024.301815</a>. </div>
