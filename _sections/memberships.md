@@ -4,6 +4,7 @@ icon: fa-th
 order: 5
 ---
 <div style="text-align: left; font-weight: bold;">Organisations:</div>
+* <div style="text-align: justify;"> ISC2 CISSP Member (since 2025)</div>
 * <div style="text-align: justify;"> IEEE Member (since 2008) – kxynos[at]ieee.org</div>
 * <div style="text-align: justify;"> IEEE Computer Society (since 2008) – kxynos[at]computer.org</div>
 * <div style="text-align: justify;"> IEEE Power & Energy Society</div>
